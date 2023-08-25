@@ -1,0 +1,23 @@
+celery
+flower
+redis
+bunnet
+pydantic < 2.0
+
+# for .env value
+python-dotenv
+
+# utils
+orjson
+tqdm
+
+# telegram
+pyrogram
+tgcrypto
+
+
+langdetect
+jsonpath_ng
+bson
+pymongo
+celery-redbeat
